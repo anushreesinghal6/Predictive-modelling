@@ -2,7 +2,7 @@
 
 Description:
 
-it is a project focused on developing an interpretable predictive model for mental health disorders using historical social media data.
+It is a project focused on developing an interpretable predictive model for mental health disorders using historical social media data.
 
 Employed state-of-the-art techniques such as BERT, Roberta, zero-shot learning, and few-shot learning to improve the model's accuracy.
 
